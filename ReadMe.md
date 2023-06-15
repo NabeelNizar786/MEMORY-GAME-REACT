@@ -1,5 +1,5 @@
-[] - Grid
-[] - Array of Icons
+[x] - Grid
+[x] - Array of Icons
 [] - Duplications
 [] - Shuffle Logic
 [] - Flipped
